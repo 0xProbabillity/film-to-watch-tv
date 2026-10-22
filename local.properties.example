@@ -1,0 +1,10 @@
+# Copy to local.properties (git-ignored) and fill in.
+# Path to your Android SDK
+sdk.dir=/path/to/android/sdk
+
+# Optional: "Where to Watch", full cast and reviews. Free at https://www.themoviedb.org/settings/api
+# (the API Read Access Token starting with eyJ, or the shorter API Key)
+TMDB_API_KEY=
+
+# Optional: Rotten Tomatoes and Metacritic scores. Free at https://www.omdbapi.com/apikey.aspx
+OMDB_API_KEY=
